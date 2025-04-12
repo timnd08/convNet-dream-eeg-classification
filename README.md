@@ -28,7 +28,7 @@ The goal of this modification is to build and train model that is capable to cla
 #### Requirements
 * Python 3.7 
 * Other dependencies can be found in requirements.txt 
-* Instal by running `pip install -r requirements.txt`
+* Install by running `pip install -r requirements.txt`
 
 
 ### CNN architecture
