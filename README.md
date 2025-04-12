@@ -1,4 +1,4 @@
-# Convolutional Neural Networks in sleep EEG Signal Analysis
+# Variations of Convolutional Neural Networks in Sleep EEG Signal Analysis
 
 ### Summary
 
